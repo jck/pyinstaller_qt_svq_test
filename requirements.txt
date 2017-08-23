@@ -1,0 +1,2 @@
+pyside
+https://github.com/pyinstaller/pyinstaller/archive/develop.zip
