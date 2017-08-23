@@ -1,6 +1,6 @@
 # coding=utf-8
 import sys
-from PyQt4 import QtGui
+from PySide import QtGui
 import rc
 
 
