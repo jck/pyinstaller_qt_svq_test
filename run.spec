@@ -4,9 +4,8 @@ block_cipher = None
 
 
 a = Analysis(['run.py'],
-             pathex=['D:\\work\\tests\\pyinstaller\\pyqt4'],
-             binaries=None,
-             datas=None,
+             binaries=[],
+             datas=[],
              hiddenimports=[],
              hookspath=[],
              runtime_hooks=[],
